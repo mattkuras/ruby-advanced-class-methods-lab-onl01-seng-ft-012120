@@ -50,9 +50,8 @@ def self.new_from_filename(name)
   end
   
 def self.destroy()
-  
-
+  @@all.clear
 end
 
-
+end
 
