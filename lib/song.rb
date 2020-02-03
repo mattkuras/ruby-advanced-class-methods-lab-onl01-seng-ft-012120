@@ -49,7 +49,8 @@ def self.new_from_filename(name)
     song
   end
   
-def 
+def self.destroy()
+  
 
 end
 
